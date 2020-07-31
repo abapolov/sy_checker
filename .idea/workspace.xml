@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427b6542-c064-440b-baac-542534a3dac1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,6 +149,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/Service/ChecklistService/Exception" />
       <recent name="$PROJECT_DIR$/src/Listener" />
     </key>
@@ -187,7 +189,7 @@
       <workItem from="1596017689151" duration="1223000" />
       <workItem from="1596096207365" duration="10811000" />
       <workItem from="1596179971372" duration="28000" />
-      <workItem from="1596180002227" duration="12930000" />
+      <workItem from="1596180002227" duration="14163000" />
     </task>
     <servers />
   </component>
@@ -233,10 +235,10 @@
       <screen x="39" y="21" width="1881" height="1059" />
     </state>
     <state x="139" y="121" width="1681" height="859" key="VCS.FileHistoryDialog/39.21.1881.1059/1920.0.1920.1080@39.21.1881.1059" timestamp="1596119913646" />
-    <state x="512" y="197" width="995" height="587" key="find.popup" timestamp="1596123471409">
+    <state x="512" y="197" width="995" height="587" key="find.popup" timestamp="1596195627953">
       <screen x="39" y="21" width="1881" height="1059" />
     </state>
-    <state x="512" y="197" width="995" height="587" key="find.popup/39.21.1881.1059/1920.0.1920.1080@39.21.1881.1059" timestamp="1596123471409" />
+    <state x="512" y="197" width="995" height="587" key="find.popup/39.21.1881.1059/1920.0.1920.1080@39.21.1881.1059" timestamp="1596195627953" />
     <state x="682" y="338" width="598" height="422" key="find.popup/43.21.1877.1059/1920.0.1920.1080@43.21.1877.1059" timestamp="1594287120241" />
     <state x="727" y="256" key="run.anything.popup" timestamp="1595855069466">
       <screen x="39" y="21" width="1881" height="1059" />
